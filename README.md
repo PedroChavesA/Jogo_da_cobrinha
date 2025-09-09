@@ -21,7 +21,7 @@ O jogo foi desenvolvido para ser executado em um ambiente de linha de comando, o
 
 ## 🚀 Como Executar
 
-Para rodar este projeto, você precisará ter o Python 3 instalado. A biblioteca \`curses\` já vem pré-instalada na maioria dos sistemas Unix (Linux e macOS).
+Para rodar este projeto, você precisará ter o Python 3 instalado. A biblioteca `curses` já vem pré-instalada na maioria dos sistemas Unix (Linux e macOS).
 
 ### Pré-requisitos
 
