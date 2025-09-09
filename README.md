@@ -28,10 +28,10 @@ Para rodar este projeto, você precisará ter o Python 3 instalado. A biblioteca
 - **Python 3.x**
 
 #### Nota para usuários de Windows:
-A biblioteca \`curses\` não está disponível nativamente no Windows. Para rodar o jogo, você precisará instalar o pacote \`windows-curses\`:
-\`\`\`bash
+A biblioteca `curses` não está disponível nativamente no Windows. Para rodar o jogo, você precisará instalar o pacote `windows-curses`:
+```bash
 pip install windows-curses
-\`\`\`
+```
 
 ### Passos para a Execução
 
@@ -56,12 +56,12 @@ pip install windows-curses
 
 ## 🕹️ Como Jogar
 
-- **Objetivo:** Comer o máximo de frutas (representadas por \`♦\`) possível sem colidir.
+- **Objetivo:** Comer o máximo de frutas (representadas por `♦`) possível sem colidir.
 - **Controles:**
-  - **\`↑\` (Seta para Cima):** Mover para cima
-  - **\`↓\` (Seta para Baixo):** Mover para baixo
-  - **\`←\` (Seta para Esquerda):** Mover para a esquerda
-  - **\`→\` (Seta para Direita):** Mover para a direita
+  - **`↑` (Seta para Cima):** Mover para cima
+  - **`↓` (Seta para Baixo):** Mover para baixo
+  - **`←` (Seta para Esquerda):** Mover para a esquerda
+  - **`→` (Seta para Direita):** Mover para a direita
 - **Fim de Jogo:** O jogo termina se a cobra tocar nas bordas da tela ou em qualquer parte do seu próprio corpo. Sua pontuação final será exibida.
 
 ## 🛠️ Estrutura do Código
