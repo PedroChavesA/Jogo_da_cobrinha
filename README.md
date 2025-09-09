@@ -1,6 +1,6 @@
 # 🐍 Jogo da Cobrinha em Python (Curses)
 
-Uma implementação clássica do Jogo da Cobrinha (Snake) desenvolvida em Python, utilizando a biblioteca \`curses\` para criar a interface e a lógica do jogo diretamente no terminal.
+Uma implementação clássica do Jogo da Cobrinha (Snake) desenvolvida em Python, utilizando a biblioteca `curses` para criar a interface e a lógica do jogo diretamente no terminal.
 
 ![Gameplay Screenshot](https://github.com/PedroChavesA/Jogo_da_cobrinha/blob/main/pysnake.gif)
 
