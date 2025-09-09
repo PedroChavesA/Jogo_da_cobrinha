@@ -2,7 +2,7 @@
 
 Uma implementação clássica do Jogo da Cobrinha (Snake) desenvolvida em Python, utilizando a biblioteca \`curses\` para criar a interface e a lógica do jogo diretamente no terminal.
 
-![Gameplay Screenshot]()
+![Gameplay Screenshot](https://github.com/PedroChavesA/Jogo_da_cobrinha/blob/main/pysnake.gif)
 
 ## 📜 Sobre o Projeto
 
@@ -36,19 +36,19 @@ pip install windows-curses
 ### Passos para a Execução
 
 1. **Clone o repositório:**
-   \`\`\`bash
+   ```bash
    git clone https://github.com/PedroChavesA/Jogo_da_cobrinha
-   \`\`\`
+   ```
 
 2. **Navegue até o diretório do projeto:**
-   \`\`\`bash
+   ```bash
    cd seu-repositorio
-   \`\`\`
+   ```
 
 3. **Execute o script Python:**
-   \`\`\`bash
+   ```bash
    python pyskane.py
-   \`\`\`
+   ```
 
 4. **Siga as instruções no terminal:**
    - Primeiro, você será solicitado a escolher um nível de dificuldade de 1 (lento) a 5 (rápido).
